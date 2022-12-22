@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Milli piyango(Random and while)\bin\Debug\net7.0\Milli piyango(Random and while).exe
+C:\Users\HP\Desktop\Milli piyango(Random and while)\bin\Debug\net7.0\Milli piyango(Random and while).deps.json
+C:\Users\HP\Desktop\Milli piyango(Random and while)\bin\Debug\net7.0\Milli piyango(Random and while).runtimeconfig.json
+C:\Users\HP\Desktop\Milli piyango(Random and while)\bin\Debug\net7.0\Milli piyango(Random and while).dll
+C:\Users\HP\Desktop\Milli piyango(Random and while)\bin\Debug\net7.0\Milli piyango(Random and while).pdb
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).AssemblyInfo.cs
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).dll
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\refint\Milli piyango(Random and while).dll
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).pdb
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\Milli piyango(Random and while).genruntimeconfig.cache
+C:\Users\HP\Desktop\Milli piyango(Random and while)\obj\Debug\net7.0\ref\Milli piyango(Random and while).dll
